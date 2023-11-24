@@ -11,7 +11,8 @@ Abstract. In February 2021, Texas experienced three significant snowstorms that 
 
 
 Notes about the code: 
-1. In order to run the file called 'retrieve data' the user needs an academic X (formerly Twitter) licence. 
-2. To enable use of the code, the input data retrieved from Twitter is provided in a variable called 'ercotall'. It is inclulded in this repository as a 'Git Large File' and therefore has to be pulled using 'git lfs pull'.
-3. If you have questions feel free to contact me here or find me on linkedIn at https://www.linkedin.com/in/ariana-ramos-gutierrez/
+1. In order to run the file called 'retrieve data' the user needs an academic X (formerly Twitter) licence.
+2. The text analysis is carried out in the file texastweetOpen.py
+3. To enable use of the code, the input data retrieved from Twitter is provided in a variable called 'ercotall'. It is inclulded in this repository as a 'Git Large File' and therefore has to be pulled using 'git lfs pull'.
+4. If you have questions feel free to contact me here or find me on linkedIn at https://www.linkedin.com/in/ariana-ramos-gutierrez/
 
