@@ -4,6 +4,8 @@ An NLP analysis of the Texas blackout crisis on Twitter
 
 This code accompanies an academic study on the development of public perception during a crisis. The academic publication is titled: 
 
+Find the full paper at: https://doi.org/10.1016/j.erss.2023.103409
+
 Finding public outrage on social media: the Texas blackouts
 
 
