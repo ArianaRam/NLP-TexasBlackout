@@ -6,7 +6,7 @@ This code accompanies an academic study on the development of public perception 
 
 Find the full paper at: https://doi.org/10.1016/j.erss.2023.103409
 
-Finding public outrage on social media: the Texas blackouts
+Finding public outrage on social media during the Texas energy crisis
 
 
 Abstract. In February 2021, Texas experienced three significant snowstorms that led to widespread rolling blackouts, impacting over 10 million people and resulting in estimated losses exceeding $155 billion. We propose a workflow to identify the factors that lead to public outrage in over 230,000 tweets using natural language processing (NLP). Through an automated emotional analysis, we find that people were angry due to the lack of transparent communication. The results show that people were willing to virally re-share the scarce information available about what was happening, even if it was bad news. A topic analysis discovers who were the main stakeholders in the public eye, and whether they were perceived as villains or allies. Our analysis finds precise moments of public outrage in the data, confirming the findings of a survey that found that 75% of respondents were outraged that Texas was not better prepared for the storm. We conclude that automated text data analytics can be used to detect and respond to public outrage in near real time, even if some human interpretation is still necessary to reach actionable conclusions. 
